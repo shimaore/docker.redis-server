@@ -8,4 +8,4 @@ RUN apt-get update && apt-get --no-install-recommends -y install \
 # Finalize
 USER redis
 EXPOSE 6379
-CMD ["/usr/bin/redis-server","127.0.0.1:6379"]
+CMD ["/usr/bin/redis-server","/etc/redis/redis.conf"]
