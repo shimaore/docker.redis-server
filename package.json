@@ -1,6 +1,6 @@
 {
   "name": "docker.redis-server",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Redis server",
   "author": "Stéphane Alnet <stephane@shimaore.net> (http://stephane.shimaore.net/)",
   "scripts": {
