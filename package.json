@@ -1,7 +1,7 @@
 {
   "name": "docker.redis-server",
   "docker_name": "shimaore/redis-server",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Redis server",
   "author": "Stéphane Alnet <stephane@shimaore.net> (http://stephane.shimaore.net/)",
   "scripts": {
